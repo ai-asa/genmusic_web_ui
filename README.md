@@ -30,7 +30,6 @@
 - ビルドは最小化される
 - ファイル名にはハッシュが付与される
 
-これでアプリのデプロイ準備が整いました！  
 詳細については、[デプロイ](https://facebook.github.io/create-react-app/docs/deployment)に関するセクションをご覧ください。
 
 ### `npm run eject`
