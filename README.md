@@ -1,3 +1,7 @@
+# genmusic web ui
+
+音楽生成拡散モデルのweb ui
+
 # Create React Appを使ったプロジェクトの始め方
 
 このプロジェクトは[Create React App](https://github.com/facebook/create-react-app)を使用して作成されています。
